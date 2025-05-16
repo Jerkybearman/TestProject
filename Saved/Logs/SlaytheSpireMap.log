@@ -1383,3 +1383,4 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2025.05.16-08.44.04:987][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.16-08.44.04:987][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.16-08.44.04:988][758]AssetCheck: /Game/SlayTheSpireMap Validating asset
+[2025.05.16-08.45.21:039][121]LogDerivedDataCache: C:/Users/Etiverse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
